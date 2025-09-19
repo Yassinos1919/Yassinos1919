@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yassin Ben Faiza
-- 👀 I’m interested in Machine Learning | computer vision |  AI
-- 🌱 I’m currently learning Automation and Industrial IT
+- 👀 I’m interested in Embedded systems | Electronics |  Edge AI
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me yassinbenfaiza0@gmail.com
 
