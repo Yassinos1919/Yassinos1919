@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yassin Ben Faiza
-- 👀 I’m interested in Embedded systems | Electronics   
+- 👀 I’m interested in building and optimizing intelligent systems    
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me yassinbenfaiza0@gmail.com
 
